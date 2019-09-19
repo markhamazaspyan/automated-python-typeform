@@ -1,4 +1,4 @@
-# automated-python-typeform
+# automated-python-survey-typeform
 Creating typeform surveys via python
 
 pip install -r requirements.txt
